@@ -5,4 +5,4 @@ source "https://rubygems.org"
 git_source(:github) {||"https://github.com/phoebep/rewild.html/"}
 
 gem "jekyll"
-gem "sassc" --without
+bundle config force_ruby_platform true
