@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {"https://github.comphoebep/rewild.html/}
+git_source(:github) {"https://github.com/phoebep/rewild.html/"}
 
 gem "jekyll"
 gem "rake"
