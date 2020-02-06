@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {||"https://github.com/phoebep/rewild.html/"}
+git_source(:github) {|rewild.html|"https://github.com/phoebep/{rewild.html}.git"}
 
 gem "jekyll"
-bundle config force_ruby_platform true
+gem "rails"
