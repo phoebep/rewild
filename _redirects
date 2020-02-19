@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "https://www.rewildinternational.org"
+  to = "https://www.rewildint.org"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
