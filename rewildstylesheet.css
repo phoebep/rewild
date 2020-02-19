@@ -26,8 +26,22 @@
   margin-right: auto;
   width: 50%;
 }
+.icon {
+  height: auto;
+  padding-right: 20 px;
+  padding-left: 20 px;
+}
 .title {
   text-align: center;
-  font-size: xx-large;
+  font-size: 50px;
   font-family: "Courier New", Courier, monospace;
 } 
+.copyright{
+  text-align: center;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.toptext{
+  display: flex;
+  align-items: right;
+}
